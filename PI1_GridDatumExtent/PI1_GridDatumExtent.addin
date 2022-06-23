@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_GridDatumExtent</Name>
+		<Assembly>PI1_GridDatumExtent.dll</Assembly>
+		<AddInId>B09754DB-E893-414C-A58E-9D3941B5E4E7</AddInId>
+		<FullClassName>PI1_GridDatumExtent.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
